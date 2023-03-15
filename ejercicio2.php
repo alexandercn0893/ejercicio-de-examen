@@ -6,8 +6,8 @@
   </head>
   <body>
     <h1>Operaciones</h1>
-    <input type="number" id="dato1" placeholder="Ingrese el primer número"><br><br>
-    <input type="number" id="dato2" placeholder="Ingrese el segundo número"><br><br>
+    <input type="number" id="dato1"><br><br>
+    <input type="number" id="dato2"><br><br>
     <button onclick="operaciones()">Calcular</button>
     <br><br>
     <div id="resultado">
